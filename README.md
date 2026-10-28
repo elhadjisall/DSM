@@ -31,7 +31,7 @@ The implementation is a six-stage optimization pipeline in C++17:
 
 ## Results
 
-The full pipeline achieves an average **84% reduction in FBM** and **93% reduction in TFBD** across 10 benchmark matrices ranging from 11×11 to 27,770×27,770.
+The full pipeline achieves an average **84% reduction in FBM** and **94.54% reduction in TFBD** across 10 benchmark matrices ranging from 11×11 to 27,770×27,770.
 
 ### Original vs. Partitioned Matrices
 
